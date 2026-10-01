@@ -1,0 +1,17 @@
+{
+  "name": "notepaper",
+  "version": "1.0.0",
+  "description": "自動產生筆記",
+  "private": "true",
+  "main": "leaning.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dayjs": "^1.11.23"
+  }
+}

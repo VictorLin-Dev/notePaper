@@ -10,8 +10,3 @@ let tpofrq = typeof Request;
 console.log(tpofrq);
 
 
-// rl.question("你叫什麼？ ", (name) => {
-//     (console.log(`你好 ${name}`));
-//     rl.close();
-
-// });
