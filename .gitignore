@@ -1,3 +1,5 @@
 node_modules
+models
+data/audio
 .DS_Store
 .env

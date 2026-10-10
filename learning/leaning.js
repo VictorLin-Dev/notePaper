@@ -9,4 +9,4 @@ rl.close();
 let tpofrq = typeof Request;
 console.log(tpofrq);
 
-
+console.log(1 && 3 && 4 && 3)
