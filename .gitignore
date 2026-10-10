@@ -1,5 +1,6 @@
 node_modules
 models
 data/audio
+learning
 .DS_Store
 .env
