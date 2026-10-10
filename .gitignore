@@ -1,6 +1,9 @@
 node_modules
 models
-data/audio
+data/audio/*
+!data/audio/.gitkeep
 learning
+data/transcripts/*
+!data/transcripts/.gitkeep
 .DS_Store
 .env
